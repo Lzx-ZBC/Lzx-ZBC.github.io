@@ -62,5 +62,5 @@ Now I am engaged in research at [NUAA NLP LAB](https://nuaa-nlp.github.io/  ) un
 <!--- - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)-->
 
 # 💻 Internships
-- *2026.1 - now*,[HiThink Research]([https://nuaa-nlp.github.io/  ](https://github.com/HiThink-Research/)), Hithink RoyalFlush Information Network Co.,Ltd, Hangzhou, China.
+- *2026.01 - now*,[HiThink Research]([https://nuaa-nlp.github.io/  ](https://github.com/HiThink-Research/)), Hithink RoyalFlush Information Network Co.,Ltd, Hangzhou, China.
 - *2023.07 - now*,[NUAA NLP LAB](https://nuaa-nlp.github.io/  ), Nanjing University of Aeronautics and Astronautics, Nanjing, China.
