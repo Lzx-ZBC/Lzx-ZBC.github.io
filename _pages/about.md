@@ -15,6 +15,7 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
+# 👨 About Me
 <span class='anchor' id='about-me'></span>
 
 I am currently a second-year Master’s student in Computer Science at [Nanjing University of Aeronautics and Astronautics](https://nuaa.edu.cn/), focusing on Large Language Models, Data Generation and Information Extraction. 
