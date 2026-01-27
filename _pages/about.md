@@ -26,10 +26,10 @@ Now I am engaged in research at [NUAA NLP LAB](https://nuaa-nlp.github.io/  ) un
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025</div><img src='images/mbre.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[M-BRe: Discovering Training Samples for Relation Extraction from Unlabeled Texts with Large Language Models]([https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf](https://aclanthology.org/2025.emnlp-main.264.pdf))
+[M-BRe: Discovering Training Samples for Relation Extraction from Unlabeled Texts with Large Language Models](https://aclanthology.org/2025.emnlp-main.264.pdf)
 
 **Zexuan Li**, Hongliang Dai, Piji Li
 
@@ -37,7 +37,16 @@ Now I am engaged in research at [NUAA NLP LAB](https://nuaa-nlp.github.io/  ) un
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/icldpo.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Generating Diverse Training Samples for Relation Extraction with Large Language Models](https://aclanthology.org/2025.acl-long.35.pdf)
+
+**Zexuan Li**, Hongliang Dai, Piji Li
+
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+</div>
+</div>
 
 <!--# 🎖 Honors and Awards -->
 <!--- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
