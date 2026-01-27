@@ -24,7 +24,7 @@ Now I am engaged in research at [NUAA NLP LAB](https://nuaa-nlp.github.io/  ) un
 
 Besides academic research, I enjoy painting 🖍️ and particularly love listening to the music of David Tao and Khalil Fong (R&B🎵).
 
-📕/🍒 Rednote/TikTok: AhKong 
+📕Rednote🍒TikTok: AhKong 
 
 # 🔥 News
 - *2025.08*: &nbsp;🎉🎉 Our paper [M-BRe](https://aclanthology.org/2025.emnlp-main.264/) is accepted by EMNLP 2025 Main Conference!
