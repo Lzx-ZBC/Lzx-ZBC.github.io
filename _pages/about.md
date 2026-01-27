@@ -15,12 +15,15 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-# 👨 About Me
+# 🤔 About Me
 <span class='anchor' id='about-me'></span>
 
 I am currently a second-year Master’s student in Computer Science at [Nanjing University of Aeronautics and Astronautics](https://nuaa.edu.cn/), focusing on Large Language Models, Data Generation and Information Extraction. Google Scholar: [Follow me!🙂](https://scholar.google.com/citations?user=--fIAWAAAAAJ&hl=en).
 
 Now I am engaged in research at [NUAA NLP LAB](https://nuaa-nlp.github.io/  ) under the guidance of Associate Professor [Hongliang Dai](https://hldai.github.io/) and Professor [Piji Li](https://lipiji.com/ ), as well as currently interning at [HiThink Research](https://github.com/HiThink-Research/).
+
+📕Rednote: AhKong
+
 # 🔥 News
 - *2025.08*: &nbsp;🎉🎉 Our paper [M-BRe](https://aclanthology.org/2025.emnlp-main.264/) is accepted by EMNLP 2025 Main Conference!
 - *2025.05*: &nbsp;🎉🎉 Our paper [ICL-DPO](https://aclanthology.org/2025.acl-long.35/) is accepted by ACL 2025 Mian Conference!
