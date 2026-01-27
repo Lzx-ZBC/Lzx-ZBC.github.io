@@ -37,7 +37,7 @@ Besides academic research, I enjoy painting 🖍️ and particularly love listen
 
 [M-BRe: Discovering Training Samples for Relation Extraction from Unlabeled Texts with Large Language Models](https://aclanthology.org/2025.emnlp-main.264.pdf)
 
-**Zexuan Li**, Hongliang Dai, Piji Li
+**Zexuan Li**, Hongliang Dai<sup>*</sup>, Piji Li
 
 - This work proposes the M-BRe framework, which strategically combines multi-class and binary classification to efficiently discover high-quality training samples from unlabeled texts for relation extraction, achieving comparable accuracy to exhaustive binary classification with significantly reduced computational overhead.
 </div>
@@ -48,7 +48,7 @@ Besides academic research, I enjoy painting 🖍️ and particularly love listen
 
 [Generating Diverse Training Samples for Relation Extraction with Large Language Models](https://aclanthology.org/2025.acl-long.35.pdf)
 
-**Zexuan Li**, Hongliang Dai, Piji Li
+**Zexuan Li**, Hongliang Dai<sup>*</sup>, Piji Li
 
 - This work investigates methods to enhance the diversity of LLM-generated training samples for relation extraction through iterative In-Context Learning and Direct Preference Optimization, thereby overcoming the limitation of repetitive phrasing and structural patterns in directly generated samples.
 </div>
