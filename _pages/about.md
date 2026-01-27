@@ -22,7 +22,7 @@ I am currently a second-year Master’s student in Computer Science at [Nanjing 
 
 Now I am engaged in research at [NUAA NLP LAB](https://nuaa-nlp.github.io/  ) under the guidance of Associate Professor [Hongliang Dai](https://hldai.github.io/) and Professor [Piji Li](https://lipiji.com/ ), as well as currently interning at [HiThink Research](https://github.com/HiThink-Research/).
 
-📕Rednote: AhKong
+📕/🍒 Rednote/TikTok: AhKong 
 
 # 🔥 News
 - *2025.08*: &nbsp;🎉🎉 Our paper [M-BRe](https://aclanthology.org/2025.emnlp-main.264/) is accepted by EMNLP 2025 Main Conference!
