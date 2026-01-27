@@ -45,7 +45,7 @@ Now I am engaged in research at [NUAA NLP LAB](https://nuaa-nlp.github.io/  ) un
 
 **Zexuan Li**, Hongliang Dai, Piji Li
 
-- This work investigates methods to enhance the diversity of LLM-generated training samples for relation extraction through iterative in-context learning and Direct Preference Optimization, thereby overcoming the limitation of repetitive phrasing and structural patterns in directly generated outputs.
+- This work investigates methods to enhance the diversity of LLM-generated training samples for relation extraction through iterative In-Context Learning and Direct Preference Optimization, thereby overcoming the limitation of repetitive phrasing and structural patterns in directly generated outputs.
 </div>
 </div>
 
