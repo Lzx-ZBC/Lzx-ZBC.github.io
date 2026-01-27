@@ -23,6 +23,7 @@ I am currently a second-year Master’s student in Computer Science at [Nanjing 
 Now I am engaged in research at [NUAA NLP LAB](https://nuaa-nlp.github.io/  ) under the guidance of Associate Professor [Hongliang Dai](https://hldai.github.io/) and Professor [Piji Li](https://lipiji.com/ ), as well as currently interning at [HiThink Research](https://github.com/HiThink-Research/).
 
 In addition to my academic research, I enjoy painting 🖍️ and music 🎵. I particularly love listening to the music of David Tao and Khalil Fong (R&B).
+
 📕/🍒 Rednote/TikTok: AhKong 
 
 # 🔥 News
