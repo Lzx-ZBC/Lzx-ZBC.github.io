@@ -20,7 +20,7 @@ redirect_from:
 
 I am currently a second-year Master’s student in Computer Science and Technology/Artificial Intelligence at [Nanjing University of Aeronautics and Astronautics](https://nuaa.edu.cn/), focusing on Large Language Models, Data Generation and Information Extraction. Google Scholar: [Follow me!🙂](https://scholar.google.com/citations?user=--fIAWAAAAAJ&hl=en).
 
-Now I am engaged in research at [NUAA NLP LAB](https://nuaa-nlp.github.io/  ) under the guidance of Associate Professor [Hongliang Dai](https://hldai.github.io/) and Professor [Piji Li](https://lipiji.com/ ), as well as currently interning at [HiThink Research](https://github.com/HiThink-Research/).
+Now I am engaged in research at [NUAA NLP LAB](https://nuaa-nlp.github.io/  ) under the guidance of Associate Professor [Hongliang Dai(戴洪良)](https://hldai.github.io/) and Professor [Piji Li(李丕绩)](https://lipiji.com/ ), as well as currently interning at [HiThink Research](https://github.com/HiThink-Research/).
 
 Besides academic research, I enjoy painting 🖍️ and particularly love listening to the music of David Tao and Khalil Fong (R&B🎵).
 
