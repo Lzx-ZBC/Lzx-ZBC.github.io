@@ -49,9 +49,10 @@ Now I am engaged in research at [NUAA NLP LAB](https://nuaa-nlp.github.io/  ) un
 </div>
 </div>
 
-<!--# 🎖 Honors and Awards -->
-<!--- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
-<!--- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
+🎖 Honors and Awards 
+Scholarships: Xiaomi Scholarship, Huawei Intelligent Base Scholarship, Master's Student Academic Scholarship, Outstanding Student Scholarship, Academic Scholarship
+Awards: First Prize, AI Agent Track, 2025 CloudWeGo Hackathon (ByteDance)
+Honors: Outstanding Graduate Student, Outstanding Student, Outstanding Graduate Student Cadre, Advanced Individual in Scientific Research and Innovation, Advanced Individual in Social Activities, Outstanding League Member
 
 # 📖 Educations
 - *2024.09 - now*, M.S. School of Artificial Intelligence, Nanjing University of Aeronautics and Astronautics.
