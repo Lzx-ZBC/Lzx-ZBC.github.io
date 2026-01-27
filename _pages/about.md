@@ -26,25 +26,25 @@ Now I am engaged in research at [NUAA NLP LAB](https://nuaa-nlp.github.io/  ) un
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025</div><img src='images/mbre.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025</div><img src='images/mbre2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [M-BRe: Discovering Training Samples for Relation Extraction from Unlabeled Texts with Large Language Models](https://aclanthology.org/2025.emnlp-main.264.pdf)
 
 **Zexuan Li**, Hongliang Dai, Piji Li
 
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- This work proposes the M-BRe framework, which strategically combines multi-class and binary classification to efficiently discover high-quality training samples from unlabeled texts for relation extraction, achieving comparable accuracy to exhaustive binary classification with significantly reduced computational overhead.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/icldpo.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/icldpo2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Generating Diverse Training Samples for Relation Extraction with Large Language Models](https://aclanthology.org/2025.acl-long.35.pdf)
 
 **Zexuan Li**, Hongliang Dai, Piji Li
 
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- This work investigates methods to enhance the diversity of LLM-generated training samples for relation extraction through iterative in-context learning and Direct Preference Optimization, thereby overcoming the limitation of repetitive phrasing and structural patterns in directly generated outputs.
 </div>
 </div>
 
