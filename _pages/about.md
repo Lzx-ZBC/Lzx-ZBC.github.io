@@ -28,7 +28,7 @@ Besides academic research, I enjoy painting 🖍️ and particularly love listen
 
 # 🔥 News
 - *2025.08*: &nbsp;🎉🎉 Our paper [M-BRe](https://aclanthology.org/2025.emnlp-main.264/) is accepted by EMNLP 2025 Main Conference!
-- *2025.05*: &nbsp;🎉🎉 Our paper [ICL-DPO](https://aclanthology.org/2025.acl-long.35/) is accepted by ACL 2025 Mian Conference!
+- *2025.05*: &nbsp;🎉🎉 Our paper [ICL-DPO](https://aclanthology.org/2025.acl-long.35/) is accepted by ACL 2025 Main Conference!
 
 # 📝 Publications 
 
