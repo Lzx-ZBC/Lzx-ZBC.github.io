@@ -19,8 +19,7 @@ redirect_from:
 
 I am currently a second-year Master’s student in Computer Science at [Nanjing University of Aeronautics and Astronautics](https://nuaa.edu.cn/), focusing on Large Language Models, Data Generation and Information Extraction. 
 
-Now I am engaged in research at [NUAA NLP LAB](https://nuaa-nlp.github.io/  ) under the guidance of Associate Professor [Hongliang Dai](https://hldai.github.io/) and Professor [Piji Li](https://lipiji.com/ ).
-
+Now I am engaged in research at [NUAA NLP LAB](https://nuaa-nlp.github.io/  ) under the guidance of Associate Professor [Hongliang Dai](https://hldai.github.io/) and Professor [Piji Li](https://lipiji.com/ ), as well as currently interning at [HiThink Research](https://github.com/HiThink-Research/).
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
