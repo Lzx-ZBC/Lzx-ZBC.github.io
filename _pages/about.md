@@ -18,7 +18,7 @@ redirect_from:
 # 🤔 About Me
 <span class='anchor' id='about-me'></span>
 
-I am currently a second-year Master’s student in Computer Science and Technology/Artificial Intelligence at [Nanjing University of Aeronautics and Astronautics](https://nuaa.edu.cn/), focusing on Large Language Models, Data Generation and Information Extraction. Google Scholar: [![](https://img.shields.io/badge/dynamic/json?logo=google-scholar&label=citations&query=%24.citations&url=https%3A%2F%2Fscholar.google.com%2Fcitations%3Fuser%3D--fIAWAAAAAJ%26hl%3Den%26view_op%3Dlist_works%26sortby%3Dpubdate&color=blue&labelColor=4285F4&logoColor=white)](https://scholar.google.com/citations?user=--fIAWAAAAAJ&hl=en)
+I am currently a second-year Master’s student in Computer Science and Technology/Artificial Intelligence at [Nanjing University of Aeronautics and Astronautics](https://nuaa.edu.cn/), focusing on Large Language Models, Data Generation and Information Extraction. Google Scholar: [![](https://img.shields.io/badge/dynamic/json?logo=google-scholar&label=citations&query=%24.citations&url=https%3A%2F%2Fraw.githubusercontent.com%2FLzx-ZBC%2FLzx-ZBC.github.io%2Fgoogle-scholar-stats%2Fgs_data.json&color=blue)](https://scholar.google.com/citations?user=--fIAWAAAAAJ&hl=en)
 
 Now I am engaged in research at [NUAA NLP LAB](https://nuaa-nlp.github.io/  ) under the guidance of Associate Professor [Hongliang Dai(戴洪良)](https://hldai.github.io/) and Professor [Piji Li(李丕绩)](https://lipiji.com/ ), as well as currently interning at [HiThink Research](https://github.com/HiThink-Research/).
 
