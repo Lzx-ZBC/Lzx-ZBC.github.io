@@ -20,7 +20,7 @@ redirect_from:
 
 I am currently a second-year Master’s student in Computer Science and Technology/Artificial Intelligence at [Nanjing University of Aeronautics and Astronautics](https://nuaa.edu.cn/), focusing on Large Language Models, Data Generation and Information Extraction. Google Scholar: [Follow Me!](https://scholar.google.com/citations?user=--fIAWAAAAAJ&hl=en)
 
-Now I am engaged in research at [NUAA NLP LAB](https://nuaa-nlp.github.io/  ) under the guidance of Associate Professor [Hongliang Dai(戴洪良)](https://hldai.github.io/) and Professor [Piji Li(李丕绩)](https://lipiji.com/ ), as well as currently interning at [HiThink Research](https://github.com/HiThink-Research/).
+Now I am engaged in research at [NUAA NLP LAB](https://nuaa-nlp.github.io/  ) under the guidance of Associate Professor [Hongliang Dai(戴洪良)](https://hldai.github.io/) and Professor [Piji Li(李丕绩)](https://lipiji.com/ ), as well as currently interning at [Tencent-TEG](https://www.tencent.com/zh-cn/about.html#about-con-1).
 
 Besides academic research, I enjoy painting 🖍️ and particularly love listening to the music of David Tao and Khalil Fong (R&B🎵).
 
@@ -68,5 +68,6 @@ Besides academic research, I enjoy painting 🖍️ and particularly love listen
 <!--- - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)-->
 
 # 💻 Internships
-- *2026.01 - now*, [HiThink Research]([https://nuaa-nlp.github.io/  ](https://github.com/HiThink-Research/)), Hithink RoyalFlush Information Network Co.,Ltd, Hangzhou, China.
+- *2026.05 - now*, [TEG-AI Platform Department](https://www.tencent.com/zh-cn/about.html#about-con-1), Tencent, Shenzhen, China.
+- *2026.01 - 2026.05*, [HiThink Research](https://github.com/HiThink-Research/), Hithink RoyalFlush Information Network Co.,Ltd, Hangzhou, China.
 - *2023.07 - now*, [NUAA NLP LAB](https://nuaa-nlp.github.io/  ), Nanjing University of Aeronautics and Astronautics, Nanjing, China.
